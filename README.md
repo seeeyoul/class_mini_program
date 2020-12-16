@@ -4,4 +4,6 @@
 
 ## 技术栈
 
-Taro 2.0 + Taro ui
+Taro 2.0 + Taro UI + Redux
+
+
